@@ -1,0 +1,7 @@
+Sorry! We found the following errors (5)
+URI : TextArea
+2		Value Error : background Parse Error pink
+7		Property fontsize doesn't exist. The closest matching property name is font-size : 3em
+13		Value Error : font-weight Missing a semicolon before the property name font-style
+17		Value Error : font-family 12px is not a font-family value : 12px
+21		Property backgound doesn't exist. The closest matching property name is background : #ccc
